@@ -1,3 +1,4 @@
 # exercise-repo
-Repo made for exercise
-We resolved the conflict!
+This projext will contain...
+Repository made for exercises.
+Edited again in the master branch..
