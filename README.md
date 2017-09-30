@@ -10,3 +10,6 @@ Hello, again!!!
 >>>>>>> develop
 
 I will leave it like that!
+
+-----------------------------
+Working with GitBash and making conflicts!!
